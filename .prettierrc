@@ -6,8 +6,5 @@
   "jsxSingleQuote": false,
   "printWidth": 80,
   "bracketSameLine": true,
-  "tailwindFunctions": [
-    "clsx",
-    "tv"
-  ]
+  "tailwindFunctions": ["clsx", "tv"]
 }
